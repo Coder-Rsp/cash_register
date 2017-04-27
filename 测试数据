@@ -1,0 +1,17 @@
+
+
+/*测试数据一*/
+[{"id":"ITEM000001","quantity":"3"},{"id":"ITEM000002","quantity":"2"},{"id":"ITEM000002","quantity":"2"},{"id":"ITEM000002","quantity":"1"},{"id":"ITEM000003","quantity":"2"},{"id":"ITEM000004","quantity":"4"}]
+
+
+/*测试数据二*/
+[{"id":"ITEM000001","quantity":"2"},{"id":"ITEM000002","quantity":"1"},{"id":"ITEM000002","quantity":"1"},{"id":"ITEM000002","quantity":"1"},{"id":"ITEM000003","quantity":"5"},{"id":"ITEM000004","quantity":"1"}]
+
+
+/*测试数据三*/
+[{"id":"ITEM000003","quantity":"8"},{"id":"ITEM000002","quantity":"5"},{"id":"ITEM000004","quantity":"1"},{"id":"ITEM000001","quantity":"8"},{"id":"ITEM000003","quantity":"5"},{"id":"ITEM000004","quantity":"1"}]
+
+
+/*异常数据测试:如果输入数据格式不是json格式数据，系统会进行异常处理，并给出合理提示*/
+ssssssss
+
